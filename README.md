@@ -2,7 +2,7 @@
 
 AlgoOps, karmaşık veri yapılarını, algoritmaları ve sistem tasarımı kavramlarını herkes için anlaşılır hale getirmeyi amaçlayan, modern ve etkileşimli bir öğrenme platformudur. 
 
-Bu projenin temel amacı, teknik mülakatlara hazırlanan yazılımcılar veya bilgisayar bilimleri temellerini öğrenmek isteyenler için konuları hem **akademik/profesyonel** derinlikte hem de **basitleştirilmiş (ELI5)** bir dille sunmaktır.
+Bu projenin temel amacı, teknik mülakatlara hazırlanan yazılımcılar için konuları hem **akademik/profesyonel** derinlikte hem de **basitleştirilmiş (ELI5)** bir dille sunmaktır.
 
 ## 🌟 Özellikler
 
@@ -75,16 +75,6 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyi
 - `context/`: Uygulama geneli durum yönetimi (Dil seçimi, Anlatım modu).
 - `lib/`: Yardımcı fonksiyonlar ve statik içerik verileri (`content.ts`).
 - `public/`: Statik görseller ve dosyalar.
-
-## 🤝 Katkıda Bulunma
-
-Katkılarınızı bekliyoruz! Bir hata bulursanız veya yeni bir özellik eklemek isterseniz, lütfen bir "issue" açın veya "pull request" gönderin.
-
-1. Bu projeyi forklayın.
-2. Yeni bir özellik dalı (branch) oluşturun (`git checkout -b feature/yeni-ozellik`).
-3. Değişikliklerinizi commit yapın (`git commit -m 'Yeni özellik eklendi'`).
-4. Dalınızı pushlayın (`git push origin feature/yeni-ozellik`).
-5. Bir Pull Request oluşturun.
 
 ---
 
